@@ -2,7 +2,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Almadocs: Documentation for Normalization and Indication in Alma</a></li>
+        <li><a href="./">Almadocs for Normalization and Indication</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub", "word"]
