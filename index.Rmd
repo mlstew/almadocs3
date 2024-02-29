@@ -1,6 +1,6 @@
 ---
 title: "Almadocs: Documentation for Normalization and Indication in Alma"
-author: Michael L. Stewart, Metadata Librarian, University of Delaware
+author: "Michael L. Stewart, Metadata Librarian, University of Delaware"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
