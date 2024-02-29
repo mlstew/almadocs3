@@ -1,0 +1,12 @@
+---
+title: "Almadocs: Documentation for Normalization and Indication in Alma"
+author: Michael L. Stewart, Metadata Librarian, University of Delaware
+site: bookdown::bookdown_site
+documentclass: book
+classoption: openany
+---
+
+This repository captures indication and normalization rules and processes within Alma. 
+It also publishes them to a static web page for readability by staff without GitHub familiarity.
+If you have any questions, please contact Michael Stewart in the Cataloging & Metadata department.
+Thank you!
