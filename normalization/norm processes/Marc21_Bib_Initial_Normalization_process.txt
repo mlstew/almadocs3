@@ -1,0 +1,10 @@
+Marc21 Bib Initial Normalization process
+
+marc21createControlNumber ; MARC21 BIB Create Control Number task
+marc21BibResequenceTask	MARC21 ; BIB Re-Sequence task
+marc21BibClearEmptyFieldsTask ; MARC21 BIB Clear Empty Fields task
+> PENDING 029_strip
+> PENDING 583_strip
+> PENDING 6xx_b6_strip
+> 6xx_vocab_strip
+> 938_strip
